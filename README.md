@@ -1,4 +1,4 @@
-he run_analysis.R script is composed of five (5) major phases with the following functionality:
+The run_analysis.R script is composed of the following functionality:
 
 Begin First question section is to merge the training and the test sets to create one data set. It has sub steps as below:
 
